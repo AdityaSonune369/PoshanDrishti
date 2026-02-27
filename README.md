@@ -17,10 +17,4 @@ Scan any plate or child's palm/eyes → Get personalised 7-day meal plan using l
 
 
 ---
-
-**Documentation**
-- [Requirements Document](docs/REQUIREMENTS.md)
-- [Design Document](docs/DESIGN.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Process Flow](docs/PROCESS_FLOW.md)
-
+The documentation will be updated as soon as the project is completed.
