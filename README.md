@@ -14,8 +14,7 @@ Scan any plate or child's palm/eyes → Get personalised 7-day meal plan using l
 - Built with AMD Ryzen AI Software Stack 1.7
 - Runs on normal laptops (Intel/NVIDIA/AMD)
 
-**Live Demo** → [Watch 90-sec Demo](#)  
-**PPT** → [Download Submission Deck](#)
+
 
 ---
 
